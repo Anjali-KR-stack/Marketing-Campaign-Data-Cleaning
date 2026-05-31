@@ -1,5 +1,4 @@
 Marketing Campaign Data Cleaning
-Project Objective
 
 The objective of this project is to clean and prepare a marketing campaign dataset for analysis.
 
