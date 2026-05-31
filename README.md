@@ -4,8 +4,11 @@ Rows: 2240
 Columns: 29
 
 1.converted dataset to table.
+
 2.all data was in 1 column, data , text to column, delimeter, tab splitted.
+
 3.format auto by width and height
+
 4.blanks:  home, find and select, go to special, blanks,  only income column has blanks, found median value of income by using value(E:E) got 58138 value and ctrl_g special, blank ok enter median value and      ctrl+enter to fill to whole blank spaces.
 5. no duplicates found.
 6.changed Dt_Customer to date form.
